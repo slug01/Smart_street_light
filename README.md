@@ -4,6 +4,7 @@ The Smart Street Light is an IoT-based project that controls street lights with 
 
 # Features
 Light Intensity Detection: Uses an LDR sensor to detect the surrounding light intensity and adjust the street light accordingly.
+
 Motion Detection: Uses three PIR sensors to detect movement and control the state of streetlights based on detected activity.
 Emergency Alert: A buzzer sounds when triggered, signaling an emergency. The system will also turn on all the streetlights.
 Real-Time Control: Control the streetlight status and buzzer from anywhere via the Blynk app.
